@@ -1,0 +1,29 @@
+img{
+	height: 50px;
+	border: 0px;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fd4c4c;
+}
+.container-fluid {
+    padding-right: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    text-align: center;
+    }
+
+    .footer{
+    background-color: rgb(59, 12, 12);
+    margin-top: 40px;
+    padding: 10px;
+}

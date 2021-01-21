@@ -1,0 +1,27 @@
+.navbar-brand img{
+	max-height: 40px;
+	max-width: 90px
+}
+.startuos{
+	padding-left: 150px;
+}
+.footer{
+	background-color: rgb(59, 12, 12);
+	margin-top: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+.images > img{
+	height: 250px;
+	width: 250px;
+ }
+
+
+.btn-default{
+	color: #fff;
+	background-color: #337ab7;
+}
+
+
